@@ -25,3 +25,7 @@ Linux user management and permission
 Linux log and shard privacy
 
 Linux firewall and server configuration
+
+
+
+လေ့လာနေရင်းတင်ပေးတာမို့အမှား လဲပါနိုင်ပါတယ်ဗျာ့
