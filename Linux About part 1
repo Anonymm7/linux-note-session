@@ -1,0 +1,86 @@
+Linux ဆိုတာ ဘာလဲ?
+
+Linux ဆိုတာ Operating System တစ်ခုဖြစ်တယ်။Linux ကို ဘယ်နေရာမှာ မြင်နိုင်မလဲဆိုတော့၊ အကောင်းဆုံး ဥပမာပေးရရင်၊ ကျနော်တို့ mobile phone တွေမှာ အသုံးပြုထားတဲ့ Android ဆိုတာသည်လည်း Linux OS တစ်ခုပါပဲ။ 
+
+Linux သမိုင်းအကျဉ်း
+
+Linux ရဲ့ ဦးဆုံး ဖန်တီးရှင်ကတော့ Linus Torvalds ပါ။ 1991 ခုနှစ်မှာ စတင် ဖန်တီးခဲ့ပါတယ်။ Linux ကို ပင်ဂွင်းငှက်လေးနဲ့ ကိုယ်စားပြုလေ့ရှိပါတယ်။ ဒါပေမယ့် Linux Torvalds တစ်ယောက်တည်းကြောင့်တော့ ပြောမယ်ဆို မပြည့်စုံသေးပါဘူး။ GNU is Not Unix ဆိုပြီး 1984 ခုနှစ် ကတည်းက GNU Project ကို စတင်ခဲ့တဲ့ Richard Stallman ရဲ့ ကြိုးပမ်းအားထုတ်မှုတွေလည်း အများကြီး ပါပါတယ်။ ဒါ့ကြောင့် GNU/Linux လို့ ခေါ်မှ ပိုပြီး ပြည့်စုံမှာပါ။
+
+Linux using
+
+Linux ကို ဘယ်နေရာမှာ မြင်နိုင်မလဲဆိုတော့၊ အကောင်းဆုံး ဥပမာပေးရရင်၊ ကျနော်တို့ mobile phone တွေမှာ အသုံးပြုထားတဲ့ Android ဆိုတာလည်း Linux OS တစ်ခုပါပဲ။ 
+
+Linux က Open Source ဖြစ်တဲ့အတွက် Code တွေကိုဝင်ပြင်လို့ရပါတယ်။ Linux က CLI (Command Line Interface) ဖြစ်တဲ့အတွက် လူသုံးနည်းတယ်။ Linux OS နဲ့ အတူ သူ့ကို ဖန်တီးထားတဲ့ source code တွေကိုပါ တစ်ပါတည်း ထည့်ပေးထားတာကြောင့်၊ နည်းပညာရှင်တွေ developer တွေ အတွက် အများကြီး အကျိုး ရှိစေပါတယ်။  Linux မှာ Desktop OS နဲ့ Server OS ဆိုပြီးရှိပါတယ်။ Linux က ဘက်စုံသုံးလို့ရတဲ့ Platform တစ်ခုဖြစ်ပါတယ်။ အခကြေးငွေနဲ့ မဝယ်ရဘဲ Free အသုံးပြုနိုင်ပါတယ်။ Linux သည် Open Source ဖြစ်တဲ့အတွက် Linux Distro တွေအမြောက်အမြားရှိပါတယ်။ အဲဒီထဲကမှ လူသိများ ထင်ရှားတာတွေကတော့ Debian, Red Hat, CentOS, fedora, Ubuntu, kali, Arch စသည်ဖြင့်ပေါ့။
+
+Linux က Open Source ဖြစ်တဲ့အတွက် Code တွေကိုဝင်ပြင်လို့ရပါတယ်။ Linux က CLI (Command Line Interface) ဖြစ်တဲ့အတွက် လူသုံးနည်းတယ်။ Linux OS နဲ့ အတူ သူ့ကို ဖန်တီးထားတဲ့ source code တွေကိုပါ တစ်ပါတည်း ထည့်ပေးထားတာကြောင့်၊ နည်းပညာရှင်တွေ developer တွေ အတွက် အများကြီး အကျိုး ရှိစေပါတယ်။  Linux မှာ Desktop OS နဲ့ Server OS ဆိုပြီးရှိပါတယ်။ Linux က ဘက်စုံသုံးလို့ရတဲ့ Platform တစ်ခုဖြစ်ပါတယ်။ အခကြေးငွေနဲ့ မဝယ်ရဘဲ Free အသုံးပြုနိုင်ပါတယ်။ Linux သည် Open Source ဖြစ်တဲ့အတွက် Linux Distro တွေအမြောက်အမြားရှိပါတယ်။ အဲဒီထဲကမှ လူသိများ ထင်ရှားတာတွေကတော့ Debian, Red Hat, CentOS, fedora, Ubuntu, Kali, Arch စသည်ဖြင့်ပေါ့။
+
+Network Server အတွက် ထင်ရှားတဲ့ Distro တွေကတော့ 
+
+1.Red Hat Enterprise Linux 
+
+2.Ubuntu Server 
+
+3. CentOS 
+
+4.SUSE Enterprise Linux 
+
+5.Fedora server တို့ဖြစ်ပါတယ်။
+
+Desktop အတွက် personal လူသုံး များတဲ့ Distro တွေကတော့ 
+
+1. Ubuntu 
+
+2. Fedora 
+
+3. Linux Mint 
+
+4. open SUSE တို့ဖြစ်ပါတယ်။
+
+Hacking cybersecurity အတွက် လူသုံး များတဲ့ Distro တွေကတော့၊ 
+
+1.Debian
+
+2.Kali Linux
+
+3. Black Arch
+
+4.Parrot Security
+
+5. Pure OS စသည်တို့ဖြစ်ပါတယ်။
+
+နောက်ပြီး Linux ကို သုံးစွဲရင် virus အန္တရာယ် အတွက် ကြောက်စရာ မလိုပါဘူး။ error များ နည်းပါးပြီး system crash ဖြစ်ခြင်းမှလည်း ကင်းဝေးပါတယ်။ မိမိ လိုအပ်ချက်နဲ့ ကိုက်ညီမယ့် Linux Distro တစ်ခုကို ရွေးချယ် အသုံးပြုကြပါလို့ အဆိုပြုလိုက်ပါရစေ။  
+
+linux operating system ကို အသုံးပြုရခြင်းရဲ့
+
+ကောင်ကျိုး‌ကတော့
+
+၁။ virus အန္တရာယ်ကနေ ကင်းဝေးမယ်။
+
+၂။ license အတွက် ကုန်ကျစရိတ် သက်သာမယ်။
+
+၃။ ပေါ့ပါး မြန်ဆန်မယ်။Memory စားသက်သာတယ် system requirement နည်းတယ်
+
+၄။ software တွေကို free ရယူနိုင်မယ်။
+
+၅။ windows ရဲ့ application software တွေကိုလည်း wine ပေါ်မှာ ဆက်လက် အသုံးပြုနိုင်မယ်။
+
+၆။ source code တွေကိုပါ လေ့လာနိုင်မယ်။
+
+၇။ hacking tools တွေကို စမ်းသပ်နိုင်မယ်။
+
+၈။ server တွေအဖြစ် ကုန်ကျစရိတ်နည်းနည်းနဲ့ run နိုင်မယ်။
+
+၉။ security မြင့်မားမှုရဲ့ အကျိုးကျေးဇူးကို ခံစားရမယ်။
+
+၁၀။UI ကို စိတိကြိုက် customize လုပ်နိုင်တယ်..ကလိလို့ အလွန်ကောင်းပါတယ်
+
+Open source ဖြစ်တာကြောင့် system ကိုစိတ်ကြိုက်ပြင်ဆင်လို့ရမယ်
+
+၁၁။ အခက်အခဲဖြစ်ရင် online community တွေ forum တွေကနေ အကူအညီ ရရှိနိုင်မယ်။
+
+၁၂။ Developer / cybersecurity / network 
+
+Server သမားတွေအသုံပြုဖို့သင့်တော်ပါတယ်
+
+ဒီထက်လဲရှိနိုင်ပါသေးတယ်
+
